@@ -37,6 +37,7 @@ header h1 {
     background-color: #fff;
     position: relative;
     cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .square:nth-of-type(3),
